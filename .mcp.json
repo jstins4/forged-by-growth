@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "agile-loop": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "tsx",
+        "/Users/joshuastinson/Documents/GitHub/agile-loop-ai/lib/mcp-server/index.ts"
+      ],
+      "cwd": "/Users/joshuastinson/Documents/GitHub/agile-loop-ai",
+      "env": {}
+    }
+  }
+}
