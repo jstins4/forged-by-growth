@@ -7,6 +7,7 @@ const navLinks = [
   { href: "/blog", label: "Blog" },
   { href: "/quotes", label: "Quotes" },
   { href: "/merchandise", label: "Merch" },
+  { href: "/schedule", label: "Schedule" },
 ];
 
 export function Header() {
